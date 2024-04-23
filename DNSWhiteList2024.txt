@@ -1,2 +1,5 @@
 #https://raw.githubusercontent.com/MembershipExcel/Stuff/master/DNSWhiteList2024.txt
 ad.doubleclick.net
+
+#Pas le choix
+target.clickfunnels.com
