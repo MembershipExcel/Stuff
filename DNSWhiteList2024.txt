@@ -1,10 +1,54 @@
 #https://raw.githubusercontent.com/MembershipExcel/Stuff/master/DNSWhiteList2024.txt
-ad.doubleclick.net
+127.0.0.1 ad.doubleclick.net
 
 #20240429
-login.live.com
-clients3.google.com
+127.0.0.1 login.live.com
+127.0.0.1 clients3.google.com
 
-#Pas le choix
-target.clickfunnels.com
-qpl6.mjt.lu
+#DEV
+
+#Pas le choix #WhiteListedImpose
+127.0.0.1 target.clickfunnels.com
+127.0.0.1 qpl6.mjt.lu
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
