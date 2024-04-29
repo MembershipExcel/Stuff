@@ -1,6 +1,9 @@
 #https://raw.githubusercontent.com/MembershipExcel/Stuff/master/DNSWhiteList2024.txt
 ad.doubleclick.net
 
+#20240429
+login.live.com
+client3.google.com
 #Pas le choix
 target.clickfunnels.com
 qpl6.mjt.lu
