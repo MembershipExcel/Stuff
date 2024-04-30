@@ -3,7 +3,9 @@
 
 #20240429
 127.0.0.1 login.live.com
-127.0.0.1 clients3.google.com
+127.0.0.1 s.youtube.com
+127.0.0.1 adashx4ae.ut.taobao.com
+#127.0.0.1 clients3.google.com
 
 #DEV
 
