@@ -1,56 +1,21 @@
 #https://raw.githubusercontent.com/MembershipExcel/Stuff/master/DNSWhiteList2024.txt
-127.0.0.1 ad.doubleclick.net
+ad.doubleclick.net
 
 #20240429
-127.0.0.1 login.live.com
-127.0.0.1 s.youtube.com
-127.0.0.1 adashx4ae.ut.taobao.com
-#127.0.0.1 clients3.google.com
+login.live.com
+s.youtube.com
+adashx4ae.ut.taobao.com
+#clients3.google.com
 
 #DEV
- 
+app-analytics-v2.snapchat.com
+googleads.g.doubleclick.net
+redirector.googlevideo.com
+sp-8f237ea3.honzik.avcdn.net
+
+teleport.soom.la
+www.googleadservices.com
+
 #Pas le choix #WhiteListedImpose
-127.0.0.1 target.clickfunnels.com
-127.0.0.1 qpl6.mjt.lu
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
+target.clickfunnels.com
+qpl6.mjt.lu
