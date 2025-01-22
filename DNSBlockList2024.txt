@@ -5,6 +5,22 @@
 127.0.0.1 Onlyjerk.net
 127.0.0.1 Latenightlovers.com
 127.0.0.1 sportradarserving.com
+127.0.0.1 (\.|^)twimg\.com$
+127.0.0.1 (\.|^)twitpic\.com$
+127.0.0.1 (\.|^)twitter\.biz$
+127.0.0.1 (\.|^)twitter\.com$
+127.0.0.1 (\./^)twitter\.jp$
+127.0.0.1 (\.|^)twittercommunity\.com$
+127.0.0.1 (\.|^)twitterflightschool\.com$
+127.0.0.1 (\.|^)twitterinc\.com$
+127.0.0.1 (\.|^)twitteroauth\.com$
+127.0.0.1 (\.|^)twitterstat\.us$
+127.0.0.1 (\.|^)twtrdns\.net$
+127.0.0.1 (\.|^)twttr\.com$
+127.0.0.1 (\.|^)twttr\.net$
+127.0.0.1 (\.|^)twvid\.com$
+127.0.0.1 (\.\^)vine\.co$
+127.0.0.1 (\./^)x\.com$
 127.0.0.1 
 127.0.0.1 
 127.0.0.1
@@ -76,7 +92,8 @@
 127.0.0.1
 127.0.0.1 
 127.0.0.1 
-127.0.0.1127.0.0.1 
+127.0.0.1
+127.0.0.1 
 127.0.0.1 
 127.0.0.1
 127.0.0.1 
